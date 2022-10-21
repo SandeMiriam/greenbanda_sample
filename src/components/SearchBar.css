@@ -1,0 +1,20 @@
+input{
+     height: 50px;
+     width: 32%;
+     border-radius:37px ;
+     float: centre;
+     text-align: center;
+     margin-left: 30%;
+
+     /* -top: 15%; */
+}
+.form{
+     margin-top: -180px;
+}
+.search{
+     margin-top: -180px;  
+     /* align-items: center; */
+     margin-left: 17%;
+     margin-bottom: 15%;
+
+}

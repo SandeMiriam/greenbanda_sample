@@ -1,0 +1,55 @@
+.links{
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    /* padding-left: 70%; */
+    
+}
+.links li{
+    /* background-color: #000; */
+    list-style: none;
+    margin-left: 4%;
+    margin-top: 30px;
+}
+.one{
+    text-decoration: none;
+    color:#000
+    ;
+    left: 25%;
+    align-items: center;
+
+}
+.links{
+    height: 70px;
+}
+.navlogo{
+    margin-left: -3%;
+    display: flex;
+}
+.logo{
+    margin-top: 5%;
+    font-size: 44px;
+}
+span{
+    /* margin-left: 12%; */
+    font-weight: lighter;
+    font-size: 57%;
+}
+.text{
+    color: #fff;
+    margin-top: -20%;
+    margin-bottom: 20%;
+    margin-left: 20%;
+    font-size: 30px;
+    align-content: center;
+}
+#text{
+    background-color: #fff;
+}
+button{
+    width: 15%;
+    height: 7vh;
+    margin-left: 27%;
+    border-radius: 15px;
+    border: 2px sol;
+}

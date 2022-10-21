@@ -1,0 +1,49 @@
+.icons{
+    display: flex;
+    width: 81%;
+    padding-left: 19%; 
+    padding-top: 2%;
+    margin-top: -7%;
+    margin-left: -9%;
+    /* margin-right: -34%; */
+
+
+
+}
+
+.cart{
+    color: black;
+    background-color:#2FC85A;
+    width: 96%;
+    height: 45vh;
+    position: relative;
+    font-size:50px;
+    border-radius: 10px;
+    margin-left: 7px;
+    padding-top:  2%;
+    padding-left: 4%;
+    right: auto;
+    /* margin-top: 67px; */
+}
+.order-cart{
+    margin-left: 18%;
+}
+
+
+
+.order-head{
+    background-color: #fff;
+    margin-right: 23%;
+    height: 4vh;
+    padding: 2%;
+    font-size: 5px;
+    font-weight: lighter;
+}
+.orders{
+    margin-right: 23%;
+    padding: 14% 4%;
+    background-color: #fff;
+    margin-top: 10%;
+    font-size: 5px;
+    font-weight: lighter;
+}
